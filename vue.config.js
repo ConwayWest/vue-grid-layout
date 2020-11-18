@@ -21,7 +21,4 @@ module.exports = {
     css: {
         extract: false
     },
-    devServer: {
-        port: 9001
-    }
 }
